@@ -1,2 +1,2 @@
-# [itzel dog app]
-[user inserts dog breed and recieves random dog picture]
+# [itzel  app]
+[user rates sleepiness and is told if they should nap]
