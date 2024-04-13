@@ -1,2 +1,2 @@
-# [title of your app]
-[description/guide for your app]
+# [itzel dog app]
+[user inserts dog breed and recieves random dog picture]
